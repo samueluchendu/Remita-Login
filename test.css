@@ -1,0 +1,101 @@
+            @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+            .rem-img {
+                margin-left: 100px;
+            }
+            
+            .side-link {
+                margin-right: 100px;
+                font-size: 12px;
+                font-family: "Open Sans", sans-serif;
+                padding: 10px;
+                font-weight: 500;
+                letter-spacing: 3px;
+            }
+            
+            .myNav {
+                background-color: #C74923;
+                height: 100px;
+                opacity: 0.9;
+            }
+            
+            .first-div {
+                width: 70vw;
+                height: 100%;
+                background-color: rgb(250, 248, 248);
+                display: block;
+                margin: 0 auto;
+                margin-top: 150px;
+                margin-bottom: 70px;
+            }
+            
+            .form-header {
+                text-align: center;
+                padding-top: 10px;
+                font-family: "Open Sans", sans-serif;
+            }
+            
+            .form-header p {
+                font-size: 10px;
+                color: #696F6F;
+            }
+            
+            span {
+                color: #C74923;
+            }
+            
+            label {
+                font-family: "Open Sans", sans-serif;
+                font-size: 13px;
+                font-weight: 600;
+            }
+            
+            .form-pad {
+                padding: 30px;
+            }
+            
+            .myInput {
+                border-radius: unset;
+                height: 45px;
+                border: 2px solid rgb(207, 205, 205);
+            }
+            
+             ::placeholder {
+                background-color: white;
+            }
+            
+            .myBtn {
+                background-color: #006D67;
+                border-radius: unset;
+                font-size: 18px;
+                color: white;
+                width: 120px;
+                height: 50px;
+            }
+            
+            .myBtn span {
+                color: white;
+            }
+            
+            .myFooter {
+                padding-top: 50px;
+                background-color: #F2F2F2;
+            }
+            
+            .sec6-1,
+            .sec6-2,
+            .sec6-3,
+            .sec6-4 {
+                color: black;
+                padding: 40px;
+                opacity: 0.7;
+            }
+            
+            .sec6-1 {
+                margin-left: 30px;
+            }
+            
+            .last-div {
+                background-color: #F2F2F2;
+                width: 100%;
+                margin-top: -20px;
+            }
